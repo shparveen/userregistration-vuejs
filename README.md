@@ -1,2 +1,3 @@
-# userregistration-vuejs
-User Login and registration demo aap in Vue.js
+# vue-vuex-registration-login-example
+
+Vue + Vuex - User Registration and Login Tutorial
